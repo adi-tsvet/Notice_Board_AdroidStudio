@@ -15,7 +15,7 @@ Screenshot 3
 ##Setup
 To set up the app, you need to do the following:
 
-Clone the repository using git clone https://github.com/username/notice-board-app.git
+Clone the repository using git clone https://github.com/adi-tsvet/Notice_Board_AndroidStudio.git
 Open the project in Android Studio
 Set up Firebase Realtime Database and Authentication by following the instructions in the Firebase console
 Replace the google-services.json file in the app directory with the one generated from the Firebase console
