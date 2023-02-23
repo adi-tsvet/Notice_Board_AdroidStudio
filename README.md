@@ -24,8 +24,8 @@ To set up the app, you need to do the following:
 <li>Set up Firebase Realtime Database and Authentication by following the instructions in the Firebase console</li>
 <li>Replace the google-services.json file in the app directory with the one generated from the Firebase console</li>
 <li>Build and run the app on your Android device or emulator</li>
+  </ol>
+  
 ## Contributions
 Contributions are welcome! If you find any bugs or have any feature requests, please open an issue or submit a pull request.
 
-## License
-This app is released under the MIT License. Feel free to use it for personal or commercial projects.
