@@ -19,7 +19,7 @@ Screenshot 3
 To set up the app, you need to do the following:
 
 <ol>
-  <li>Clone the repository using git clone https://github.com/adi-tsvet/Notice_Board_AndroidStudio.git </li>
+  <li>Clone the repository using `git clone https://github.com/adi-tsvet/Notice_Board_AndroidStudio.git` </li>
 <li>Open the project in Android Studio</li>
 <li>Set up Firebase Realtime Database and Authentication by following the instructions in the Firebase console</li>
 <li>Replace the google-services.json file in the app directory with the one generated from the Firebase console</li>
